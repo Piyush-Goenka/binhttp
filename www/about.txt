@@ -1,0 +1,1 @@
+bserve sends each file as DATA frames of at most 16 KiB.
